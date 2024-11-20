@@ -1,3 +1,7 @@
+--this is an approximation to visualize the output of the generateMarkdown function--
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 # ${Title}
 
 ## Description
@@ -35,6 +39,8 @@ ${testsContent}
 
 ## Questions
 
-[${githubUsername}](${linkURL})
-${email}
+My GitHub:  
+[${githubUsername}](https://www.github.com/${githubUsername})  
+My email:  
+${email}  
 To reach me with further questions, email me here
